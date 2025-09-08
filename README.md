@@ -28,24 +28,33 @@
 
 ---
 
-### ⚒️ Languages & Tools
-<p align="left">
-  <!-- Web & Frontend -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nodejs,express,redux,graphql,html,css,sass,tailwind,bootstrap" /><br/>
-  
-  <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,mongodb,sqlite,redis" /><br/>
-  
-  <!-- Mobile & Game Dev -->
-  <img src="https://skillicons.dev/icons?i=java,flutter,androidstudio,unity" />
+### ⚒️ Skills
+
+#### 🟨 Javascript
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,reactnative" />
+</p>
+
+#### 🟦 C#
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+#### 🎮 Game Engines
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
   <img src="https://cdn.simpleicons.org/unrealengine/0E1128" height="40"/>
+</p>
+
+#### 🗄️ Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,aws,gcp,mysql,postgresql,mongodb" />
+</p>
+
+#### 🌐 Web Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/xamarin/3498DB" height="40"/><br/>
-  
-  <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40"/>
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40"/>
 </p>
 
 ### 📊 GitHub Stats
