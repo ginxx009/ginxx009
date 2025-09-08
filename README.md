@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paul Kevin</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate software engineer from Philippines</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ginxx009&label=Profile%20views&color=0e75b6&style=flat" alt="ginxx009" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginxx009" alt="ginxx009" /></a> </p>
+
+- 📫 How to reach me **macandili09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
