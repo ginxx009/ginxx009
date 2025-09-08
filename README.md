@@ -11,8 +11,12 @@
 ---
 
 ### 👨‍💻 About Me
+I am a **versatile Software Engineer** and true **jack of all trades** in tech.  
+From **web and mobile development** to **API design, backend engineering, cloud infrastructure, and game development**, I love exploring every corner of software engineering.  
+All coding projects here reflect my passion for **learning, problem-solving, and building practical solutions** across multiple domains.  
+
 - 🇵🇭 From the Philippines  
-- 🚀 Passionate about building scalable web, mobile, and game applications  
+- 🚀 Passionate about creating scalable and innovative applications across web, mobile, cloud, and gaming  
 - 📫 Reach me at **macandili09@gmail.com**
 
 ---
