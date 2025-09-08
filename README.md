@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Paul Kevin</h1>
 <h3 align="center">Software Engineer • Full-Stack Developer • Tech Enthusiast</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-macandili09%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+  <img src="https://komarev.com/ghpvc/?username=ginxx009&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ginxx009?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ginxx009?label=Stars&style=for-the-badge" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -15,8 +22,8 @@
   <a href="https://linkedin.com/in/paulkevin1995" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://stackoverflow.com/users/ginxxx" target="_blank">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40"/>
+  <a href="https://stackoverflow.com/users/7482033/ginxxx" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
   </a>
   <a href="https://fb.com/uhawnauhaw12" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
@@ -32,7 +39,7 @@
 
 #### 🟨 Javascript
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,reactnative" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react" />
 </p>
 
 #### 🟦 C#
@@ -42,8 +49,7 @@
 
 #### 🎮 Game Engines
 <p>
-  <img src="https://skillicons.dev/icons?i=unity" />
-  <img src="https://cdn.simpleicons.org/unrealengine/0E1128" height="40"/>
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
 
 #### 🗄️ Databases & Backend
@@ -56,6 +62,8 @@
   <img src="https://skillicons.dev/icons?i=php,laravel" />
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="40"/>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 <p align="center">
