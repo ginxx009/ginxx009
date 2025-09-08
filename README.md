@@ -19,10 +19,10 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
   </a>
   <a href="https://fb.com/uhawnauhaw12" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
   </a>
   <a href="https://www.youtube.com/c/@ginxx_coding_club" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40"/>
   </a>
 </p>
 
@@ -30,17 +30,20 @@
 
 ### ⚒️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nodejs,express,redux,graphql,html,css,sass,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql,postgresql,mongodb,sqlite,redis" />
-  <img src="https://skillicons.dev/icons?i=dotnet,c,cs,java,flutter,androidstudio,unity,unreal" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,kafka,rabbitmq" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ginxx009&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ginxx009&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginxx009&theme=tokyonight" alt="GitHub streak" />
+  <!-- Web & Frontend -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nodejs,express,redux,graphql,html,css,sass,tailwind,bootstrap" /><br/>
+  
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,mongodb,sqlite,redis" /><br/>
+  
+  <!-- Mobile & Game Dev -->
+  <img src="https://skillicons.dev/icons?i=java,flutter,androidstudio,unity" />
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/xamarin.svg" height="40"/><br/>
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40"/>
 </p>
