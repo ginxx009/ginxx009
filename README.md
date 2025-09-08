@@ -16,13 +16,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://stackoverflow.com/users/ginxxx" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40"/>
   </a>
   <a href="https://fb.com/uhawnauhaw12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
   </a>
   <a href="https://www.youtube.com/c/@ginxx_coding_club" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40"/>
   </a>
 </p>
 
@@ -38,12 +38,18 @@
   
   <!-- Mobile & Game Dev -->
   <img src="https://skillicons.dev/icons?i=java,flutter,androidstudio,unity" />
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/unrealengine/0E1128" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/xamarin.svg" height="40"/><br/>
+  <img src="https://cdn.simpleicons.org/xamarin/3498DB" height="40"/><br/>
   
   <!-- DevOps & Cloud -->
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40"/>
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40"/>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ginxx009&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginxx009&theme=tokyonight" alt="GitHub streak" />
 </p>
